@@ -9,7 +9,7 @@ const splashText = [
     "Woah, I found an iRacing instance running, I wonder if I can send these numbers... I CAN!!!",
     "iRacing: found. Numbers: sent. Quantum Strings: Parsed. Mainframe: Hacked",
     "Hey uhh, you're going pretty fast there, looks kinda unsafe? Are you sure you know what you're doing?",
-    "Gabir Motors is not responsible for any injuries incurred during the using of this product, including but not limited to: coughing, sneezing, uncontrollable laughter, an unending feeling of impending doom, lightheadedness, headaches, cramps in your left ankle, a broken femur, and death",
+    "Gabir Motors is not responsible for any injuries incurred during the usage of this product, including but not limited to: coughing, sneezing, uncontrollable laughter, an unending feeling of impending doom, lightheadedness, headaches, cramps in your left ankle, a broken femur, and death",
     "I heard Angus Speed Systems got into some legal trouble last month after the health inspector found where they get their food from (it wasn't pretty)",
     "This program has the Mike Racecar stamp of approval, at least I assume it does, I can't get him to stop racing for long enough to look at it...",
 ] 
